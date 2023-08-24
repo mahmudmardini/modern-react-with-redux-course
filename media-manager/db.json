@@ -1,5 +1,30 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Johnathan Reynolds",
+      "id": 1
+    },
+    {
+      "name": "Byron Parisian",
+      "id": 2
+    },
+    {
+      "name": "Dr. Penny Witting",
+      "id": 3
+    },
+    {
+      "name": "Vicky Armstrong",
+      "id": 4
+    },
+    {
+      "name": "Hilda Turcotte DVM",
+      "id": 5
+    },
+    {
+      "name": "Kent Botsford",
+      "id": 6
+    }
+  ],
   "albums": [],
   "photos": []
 }
