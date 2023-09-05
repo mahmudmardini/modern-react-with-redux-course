@@ -7,24 +7,29 @@
     {
       "name": "Byron Parisian",
       "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "title": "Small Frozen Tuna",
+      "userId": 1,
+      "id": 1
     },
     {
-      "name": "Dr. Penny Witting",
+      "title": "Small Steel Computer",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Sleek Steel Pants",
+      "userId": 2,
       "id": 3
     },
     {
-      "name": "Vicky Armstrong",
+      "title": "Oriental Cotton Tuna",
+      "userId": 2,
       "id": 4
-    },
-    {
-      "name": "Hilda Turcotte DVM",
-      "id": 5
-    },
-    {
-      "name": "Kent Botsford",
-      "id": 6
     }
   ],
-  "albums": [],
   "photos": []
 }

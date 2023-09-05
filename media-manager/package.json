@@ -2,6 +2,13 @@
   "name": "media-manager",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "start:server": "json-server --watch db.json --port 3005",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@faker-js/faker": "^8.0.2",
     "@reduxjs/toolkit": "^1.9.5",
@@ -17,13 +24,6 @@
     "react-redux": "^8.1.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "start:server": "json-server --watch db.json --port 3005",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
