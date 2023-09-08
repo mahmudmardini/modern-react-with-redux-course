@@ -3,33 +3,30 @@
     {
       "name": "Johnathan Reynolds",
       "id": 1
-    },
-    {
-      "name": "Byron Parisian",
-      "id": 2
     }
   ],
   "albums": [
     {
-      "title": "Small Frozen Tuna",
+      "title": "Unbranded Wooden Pants",
       "userId": 1,
+      "id": 1
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://picsum.photos/seed/X3i6Fk/640/480",
+      "albumId": 1,
       "id": 1
     },
     {
-      "title": "Small Steel Computer",
-      "userId": 1,
+      "url": "https://picsum.photos/seed/lBEpGm/640/480",
+      "albumId": 1,
       "id": 2
     },
     {
-      "title": "Sleek Steel Pants",
-      "userId": 2,
+      "url": "https://loremflickr.com/640/480?lock=4533500420030464",
+      "albumId": 1,
       "id": 3
-    },
-    {
-      "title": "Oriental Cotton Tuna",
-      "userId": 2,
-      "id": 4
     }
-  ],
-  "photos": []
+  ]
 }
